@@ -1,0 +1,37 @@
+{
+    "title": "Mindstellar Frontpage",
+    "name": "mindstellar-frontpage",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "node_modules/.bin/gulp watch"
+    },
+    "description": "Mindstellar.com frontend",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://mindstellar.com",
+    "bugs": {
+        "url": "https://github.com/mindstellar/mindstellar/issues"
+    },
+    "license": "GPL v3",
+    "author": "Mindstellar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mindstellar/mindstellar.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.3.1",
+        "jquery": "3.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.7",
+        "del": "^4.1.1",
+        "gulp": "4.0.2",
+        "merge-stream": "2.0.0"
+    }
+}
