@@ -18,7 +18,7 @@
     "bugs": {
         "url": "https://github.com/mindstellar/mindstellar/issues"
     },
-    "license": "GPL v3",
+    "license": "AGPL-3.0",
     "author": "Mindstellar",
     "repository": {
         "type": "git",
@@ -26,7 +26,7 @@
     },
     "dependencies": {
         "bootstrap": "4.3.1",
-        "jquery": "3.4.1"
+        "jquery": "^3.5.1"
     },
     "devDependencies": {
         "browser-sync": "2.26.7",
